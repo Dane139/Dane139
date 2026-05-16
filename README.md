@@ -10,7 +10,7 @@ My background in Service Desk operations gives me a real-world lens on why infra
 
 **Cloud & Infrastructure**
 - Microsoft Azure (Virtual Machines, VNets, NSGs, Blob Storage, Front Door, Azure Functions, Static Web Apps)
-- Terraform (IaC — resource provisioning, state management, lifecycle hooks)
+- Terraform (IaC - resource provisioning, state management, lifecycle hooks)
 - AWS (CCP fundamentals)
 
 **Security & Identity**
@@ -30,7 +30,7 @@ My background in Service Desk operations gives me a real-world lens on why infra
 - Windows Server 2025
 - Microsoft 365 & Exchange Online
 - Cisco Meraki
-- Zendesk & ManageEngine
+- ServiceNow, Zendesk & ManageEngine
 
 ---
 
