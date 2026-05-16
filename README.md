@@ -111,7 +111,7 @@ Targeting a **Cloud Administrator or Junior Cloud Infrastructure Engineer** role
 
 - 🔗 LinkedIn: [linkedin.com/in/dane-willms-3612a9281](https://www.linkedin.com/in/dane-willms-3612a9281/)
 - 🌐 Portfolio: [daneondemand.com](https://daneondemand.com)
-- 📧 Email: [your email here]
+- 📧 Email: [hello@daneondemand.com](mailto:hello@daneondemand.com)
 
 ---
 
